@@ -7,6 +7,6 @@
 💞️ I’m looking to collaborate on web development projects, especially those involving React.js and Angular.
 
 📫 How to reach me:
-- Email: your@email.com
-- LinkedIn: [](https://www.linkedin.com/in/madhu-sudhan-rao-pediredla-18588a1a3/)
+- Email: madhuspediredla@email.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/madhu-sudhan-rao-pediredla-18588a1a3/)
 - Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
