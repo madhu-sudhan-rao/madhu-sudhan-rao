@@ -8,5 +8,5 @@
 
 📫 How to reach me:
 - Email: madhuspediredla@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/madhu-sudhan-rao-pediredla-18588a1a3/)
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
+- LinkedIn: [Madhu Sudhana Rao](https://www.linkedin.com/in/madhu-sudhan-rao-pediredla-18588a1a3/)
+- Portfolio: [Madhu](https://www.yourportfolio.com)
