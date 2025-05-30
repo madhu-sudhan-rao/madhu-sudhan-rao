@@ -8,5 +8,4 @@
 
 📫 How to reach me:
 - Email: madhusudhanrao391@gmail.com
-- LinkedIn: [Madhu Sudhana Rao](https://www.linkedin.com/in/madhu-sudhan-rao-pediredla-18588a1a3/)
-- Portfolio: [Madhu]
+- LinkedIn: [Madhu Sudhana Rao](https://www.linkedin.com/in/madhu-sudhan-rao)
